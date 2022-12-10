@@ -1,0 +1,2 @@
+local FOV = 120
+game.Workspace.Camera.FieldOfView = FOV
